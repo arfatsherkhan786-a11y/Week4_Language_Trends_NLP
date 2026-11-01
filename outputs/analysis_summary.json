@@ -1,0 +1,10 @@
+{
+    "Total_articles": 209497,
+    "Analysis_sample": 30000,
+    "Number_of_categories": 42,
+    "Start_year": 2012,
+    "End_year": 2022,
+    "Number_of_topics": 5,
+    "Number_of_clusters": 5,
+    "Most_frequent_word": "trump"
+}

@@ -1,0 +1,3 @@
+Model,Evaluation_Metric,Score
+LDA,Perplexity,2637.01526733077
+K-Means,Silhouette Score,0.0029918576057132783
