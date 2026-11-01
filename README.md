@@ -1,3 +1,4 @@
+![GitHub Banner](profile-banner.png)
 # 📊 Advanced Analysis and Reporting of Language Trends Using NLP Techniques
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
